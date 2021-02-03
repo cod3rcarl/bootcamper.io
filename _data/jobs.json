@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "55713995b721c3bb38c1f555",
+    "user": "5c8a1d5b0190b214360dc033",
+    "company": "WithWise",
+    "jobTitle": "FrontEnd Developer",
+    "jobDescription": "https://withwise.recruitee.com/",
+    "videoDescription": "upload video description here",
+    "website": "https://withwise.com/",
+    "averageSalary": 25000,
+    "address": "Zenith House, Highlands Road, Solihull, B90 4PD",
+    "travel": false,
+    "bootcamp": "5d713995b721c3bb38c1f5d0",
+    "remote": "2/3 days in the office per week"
+  },
+  {
+    "_id": "8d713995b721c3bb38c1f5d8",
+    "user": "5c8a1d5b0190b214360dc033",
+    "company": "Methods",
+    "jobTitle": "Full Stack Developer",
+    "jobDescription": "Upload JD here",
+    "videoDescription": "upload video description here",
+    "website": "https://methods.co.uk",
+    "averageSalary": 27500,
+    "address": "Alpha Building, Suffolk Street Queensway, B1 1TT",
+    "travel": false,
+    "bootcamp": "5d713995b721c3bb38c1f5d0",
+    "remote": "1/2 days in the office per month"
+  },
+  {
+    "_id": "8d7139956621c3bb38c1f5d8",
+    "user": "5c8a1d5b0190b214360dc033",
+    "company": "Iternal",
+    "jobTitle": "FrontEnd Developer",
+    "jobDescription": "upload JD HERE",
+    "videoDescription": "upload video description here",
+    "website": "https://iternal.life",
+    "averageSalary": 25000,
+    "address": "Iternal HQ 1 Victoria Street Bristol BS51 6AA",
+    "travel": false,
+    "bootcamp": "5d713995b721c3bb38c1f5d0",
+    "remote": "Fully remote"
+  }
+]
