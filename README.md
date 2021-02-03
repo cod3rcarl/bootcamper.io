@@ -36,4 +36,4 @@ node seeder -i
 
 ## Demo
 
-Extensive documentation with examples [here](https://documenter.getpostman.com/view/12969425/TW71mmcw)
+Extensive documentation with examples [here](https://documenter.getpostman.com/view/12969425/TW71mmcw#f61f51e7-8f3a-4b71-aaa1-03df8cc7b59e)
